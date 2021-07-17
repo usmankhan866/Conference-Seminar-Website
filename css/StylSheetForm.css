@@ -1,0 +1,32 @@
+.form {background-color: lightgreen; border: 1px solid gray;
+ }
+
+ .li {padding:10px 20px; display: block; 
+ 	margin-bottom: 15px; width: 20px; line-height: 20px;}
+
+a:link {
+
+	 background-color: lightblue; text-decoration: none; 
+	 display: inline-block; padding: 5px; margin:0px; 
+	 border: 2px solid gray; border-radius: 4px; text-align: center;
+}
+
+a:visted {
+
+	background-color: blue; 
+	text-decoration: none;
+}
+
+a:hover{
+
+	 background-color: darkblue; 
+	 color: white; 
+}
+
+a:active { 
+
+         background-color: gray;
+ }
+
+
+
